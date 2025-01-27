@@ -90,7 +90,3 @@ In future projects, I aim to:
 ## Acknowledgments
 
 Special thanks to Frontend Mentor for providing this challenge. It was a great way to practice responsive web design!
-
-
-
-[recipePageScreenshot]: ./screenshot.jpg
