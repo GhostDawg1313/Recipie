@@ -28,12 +28,12 @@ To build a fully responsive recipe page that:
 
 ### Screenshot
 
-![Recipe Page Screenshot](./William%20S.%20Houston%20Sr.%20Screenshot.jpeg)
+![Recipe Page Screenshot](./William%20S.%20Houston%20Sr.%20Screenshot.jpg)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:  <https://recipie-william-s-houstons-projects.vercel.app>
 
 ## My Process
 
@@ -85,7 +85,7 @@ In future projects, I aim to:
 
 - Frontend Mentor Profile: [William S. Houston Sr.](https://www.frontendmentor.io/profile/ghostdawg1313)
 - GitHub: [ghostdawg1313](https://github.com/ghostdawg1313)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/william-houston-42221866)
+- LinkedIn: <https://linkedin.com/in/william-houston-42221866>
 
 ## Acknowledgments
 
