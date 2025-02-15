@@ -28,11 +28,11 @@ To build a fully responsive recipe page that:
 
 ### Screenshot
 
-![Recipe Page Screenshot](./William%20S.%20Houston%20Sr.%20Screenshot.jpg)
+![Recipe Page Screenshot](./William%20S.%20Houston%20Sr.%20Screenshot.jpeg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-page-using-css-grid-with-2-css-pages-for-media-queries-qkhVIGOu1N)
 - Live Site URL: [Add live site URL here](https://recipiepage101.netlify.app/)
 
 ## My Process
