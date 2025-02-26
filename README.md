@@ -32,8 +32,8 @@ To build a fully responsive recipe page that:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-page-using-css-grid-with-2-css-pages-for-media-queries-qkhVIGOu1N)
-- Live Site URL: [Add live site URL here](https://recipiepage101.netlify.app/)
+- Solution URL: [Frontend Mentor](<https://www.frontendmentor.io/solutions/responsive-page-using-css-grid-with-2-css-pages-for-media-queries-qkhVIGOu1N>)
+- Live Site URL:[Netlify] (<https://recipiepage101.netlify.app/>)
 
 ## My Process
 
@@ -51,6 +51,7 @@ Working on this project helped me reinforce my understanding of:
 1. **HTML Structure**: Organizing content with semantic elements like `<header>`, `<ul>`, and `<ol>`.
 2. **CSS Media Queries**: Creating responsive designs for both small and large screens.
 3. **Typography and Color**: Using CSS to apply color schemes and adjust font properties for readability and aesthetics.
+4. **
 
 For example, I applied the following CSS for screen sizes 375px and larger:
 
