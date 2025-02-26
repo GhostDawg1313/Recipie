@@ -33,7 +33,7 @@ To build a fully responsive recipe page that:
 ### Links
 
 - Solution URL: [Frontend Mentor](<https://www.frontendmentor.io/solutions/responsive-page-using-css-grid-with-2-css-pages-for-media-queries-qkhVIGOu1N>)
-- Live Site URL:[Netlify] (<https://recipiepage101.netlify.app/>)
+- Live Site URL: [Netlify](<https://recipiepage101.netlify.app/>)
 
 ## My Process
 
