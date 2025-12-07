@@ -1,6 +1,6 @@
 
-/* Media query for screens that are 1440px or larger */
-@media (min-width: 1440px) {
+/* Media query for screens that are 768px or larger */
+@media (min-width: 768px) {
     body {
         background-color: hsl(30, 54%, 90%);
         font-size: 16px;
